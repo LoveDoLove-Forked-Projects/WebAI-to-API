@@ -33,7 +33,7 @@ uvicorn = {extras = ["standard"], version = ">=0.34.0,<0.41.0"}
 pywin32 = { version = "==308", platform = "win32" }
 pycryptodomex = { version = ">=3.21.0,<4.0.0", platform = "win32" }
 tomli = "^2.2.1"
-python-multipart = "^0.0.21"
+python-multipart = "^0.0.27"
 aiohttp-socks = "^0.11.0"
 playwright = "^1.60.0"
 
